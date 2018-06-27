@@ -17,4 +17,5 @@ def find_the_cheese(array)
     cheese_types
   else
     nil
+  end
 end
